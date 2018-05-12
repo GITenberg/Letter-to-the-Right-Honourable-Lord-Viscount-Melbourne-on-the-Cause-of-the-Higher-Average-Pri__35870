@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37949'
     url: http://www.gutenberg.org/2009/agents/37949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35870#Letter-to-the-Right-Honourable-Lord-Viscount-Melbourne-on-the-Cause-of-the-Higher-Average-Pri_
 gutenberg_issued: '2011-04-14'
 gutenberg_type: Text
 identifiers:
