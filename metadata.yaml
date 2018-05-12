@@ -1,0 +1,32 @@
+_repo: Letter-to-the-Right-Honourable-Lord-Viscount-Melbourne-on-the-Cause-of-the-Higher-Average-Pri__35870
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grant Suttie, George, Sir
+    aliases:
+    - Suttie, George Grant
+    - Grant-Suttie, George
+    birthdate: 1797
+    deathdate: 1878
+    gutenberg_agent_id: '37949'
+    url: http://www.gutenberg.org/2009/agents/37949
+description: ''
+gutenberg_issued: '2011-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Economic conditions'
+- !lcsh 'Melbourne, William Lamb, Viscount, 1779-1848'
+- !lcsh 'Corn laws (Great Britain)'
+- !lcc 'HF'
+title: Letter to the Right Honourable Lord Viscount Melbourne on the Cause of the
+  Higher Average Price of Grain in Britain than on the the Continent
+url: http://www.gutenberg.org/ebooks/35870
